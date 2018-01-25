@@ -25,7 +25,7 @@
                             <sources>
                                 <source>path to /beans</source>
                             </sources>
-                            <outputDirectory>path to shema</outputDirectory>
+                            <outputDirectory>${basedir}/path to project or shema</outputDirectory>
                         </configuration>
                     </execution>
                 </executions>
